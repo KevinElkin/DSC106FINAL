@@ -1,5 +1,30 @@
-Highcharts.getJSON('https://raw.githubusercontent.com/KevinElkin/DSC106FINAL/master/convertcsv%20(4).json', function (data) {
+Highcharts.getJSON('https://raw.githubusercontent.com/KevinElkin/DSC106FINAL/master/30Day.json', function (data) {
 
+    // var tes = []
+    // var fo = []
+    // var cev = []
+    // var riv = []
+
+    // i = 0;
+
+    // for (i; i < data.length; i += 1) {
+    //     tes.push([
+    //         data[i][1], // the date
+    //         data[i][2], // open
+    //     ]);
+    //     fo.push([
+    //         data[i][1], // the date
+    //         data[i][3], // open
+    //     ]);
+    //     cev.push([
+    //         data[i][1], // the date
+    //         data[i][4], // open
+    //     ]);
+    //     riv.push([
+    //         data[i][1], // the date
+    //         data[i][5] // the volume
+    //     ]);
+    // }
     Highcharts.theme = {
         colors: ['#2b908f', '#90ee7e', '#f45b5b', '#7798BF', '#aaeeee', '#ff0066',
             '#eeaaee', '#55BF3B', '#DF5353', '#7798BF', '#aaeeee'],
@@ -19,14 +44,12 @@ Highcharts.getJSON('https://raw.githubusercontent.com/KevinElkin/DSC106FINAL/mas
         title: {
             style: {
                 color: '#E0E0E3',
-                textTransform: 'uppercase',
                 fontSize: '20px'
             }
         },
         subtitle: {
             style: {
-                color: '#E0E0E3',
-                textTransform: 'uppercase'
+                color: '#E0E0E3'
             }
         },
         xAxis: {
@@ -199,17 +222,23 @@ Highcharts.getJSON('https://raw.githubusercontent.com/KevinElkin/DSC106FINAL/mas
     Highcharts.chart('container2', {
 
         title: {
-            text: 'Truck Brand Interest Over Time (30 Days)'
+            text: 'Worldwide Truck Brand Interest Over Time (30 Days)'
         },
 
         subtitle: {
-            text: 'Source: GoogleTrends'
+            text: 'Source: Google Trends'
         },
 
         yAxis: {
             title: {
                 text: 'Interest Rating'
             }
+        },
+        xAxis: {
+            type: 'datetime',
+            //labels: {
+              //format: '{value:%Y-%b-%e}'
+            //}
         },
         legend: {
             layout: 'vertical',
@@ -219,25 +248,34 @@ Highcharts.getJSON('https://raw.githubusercontent.com/KevinElkin/DSC106FINAL/mas
 
         plotOptions: {
             series: {
+                pointStart: Date.UTC(2019, 10, 7),
+                pointInterval: 24 * 3600 * 1000,
                 label: {
                     connectorAllowed: false
                 },
-                pointStart: 0
             }
         },
 
         series: [{
             name: 'Ford',
-            data: data.Ford
+            data: data.Ford,
+            //pointStart: Date.UTC(2019, 11, 5),
+            //pointInterval: 3600 * 1000
         }, {
             name: 'Chevrolet',
-            data: data.Chevrolet
+            data: data.Chevrolet,
+            //pointStart: Date.UTC(2019, 11, 5),
+            //pointInterval: 3600 * 1000
         }, {
             name: 'Tesla',
-            data: data.Tesla
+            data: data.Tesla,
+            //pointStart: Date.UTC(2019, 11, 5),
+            //pointInterval: 3600 * 1000
         }, {
             name: 'Rivian',
-            data: data.Rivian
+            data: data.Rivian,
+            //pointStart: Date.UTC(2019, 11, 5),
+            //pointInterval: 3600 * 1000
         }],
 
         responsive: {

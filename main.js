@@ -53,14 +53,12 @@ Highcharts.getJSON('https://raw.githubusercontent.com/KevinElkin/DSC106FINAL/mas
         title: {
             style: {
                 color: '#E0E0E3',
-                textTransform: 'uppercase',
                 fontSize: '20px'
             }
         },
         subtitle: {
             style: {
-                color: '#E0E0E3',
-                textTransform: 'uppercase'
+                color: '#E0E0E3'
             }
         },
         xAxis: {
@@ -238,13 +236,16 @@ Highcharts.getJSON('https://raw.githubusercontent.com/KevinElkin/DSC106FINAL/mas
 
         plotOptions: {
             candlestick: {
-                color: 'green',
-                upColor: 'red'
+                color: 'red',
+                upColor: 'green'
             }
         },
 
         title: {
-            text: 'TSLA Historical'
+            text: 'TSLA Historical Stock Data'
+        },
+        subtitle: {
+            text: 'Source: Yahoo Finance'
         },
 
         yAxis: [{
