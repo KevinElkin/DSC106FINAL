@@ -1,0 +1,1220 @@
+[
+ {
+   "FIELD1": 0,
+   "Name": "Afghanistan",
+   "Code": "AF",
+   "value": null
+ },
+ {
+   "FIELD1": 1,
+   "Name": "Åland Islands",
+   "Code": "AX",
+   "value": null
+ },
+ {
+   "FIELD1": 2,
+   "Name": "Albania",
+   "Code": "AL",
+   "value": null
+ },
+ {
+   "FIELD1": 3,
+   "Name": "Algeria",
+   "Code": "DZ",
+   "value": null
+ },
+ {
+   "FIELD1": 4,
+   "Name": "American Samoa",
+   "Code": "AS",
+   "value": null
+ },
+ {
+   "FIELD1": 5,
+   "Name": "Andorra",
+   "Code": "AD",
+   "value": null
+ },
+ {
+   "FIELD1": 6,
+   "Name": "Angola",
+   "Code": "AO",
+   "value": null
+ },
+ {
+   "FIELD1": 7,
+   "Name": "Anguilla",
+   "Code": "AI",
+   "value": null
+ },
+ {
+   "FIELD1": 8,
+   "Name": "Antarctica",
+   "Code": "AQ",
+   "value": null
+ },
+ {
+   "FIELD1": 9,
+   "Name": "Argentina",
+   "Code": "AR",
+   "value": 8
+ },
+ {
+   "FIELD1": 10,
+   "Name": "Armenia",
+   "Code": "AM",
+   "value": null
+ },
+ {
+   "FIELD1": 11,
+   "Name": "Aruba",
+   "Code": "AW",
+   "value": null
+ },
+ {
+   "FIELD1": 12,
+   "Name": "Australia",
+   "Code": "AU",
+   "value": 43
+ },
+ {
+   "FIELD1": 13,
+   "Name": "Austria",
+   "Code": "AT",
+   "value": 46
+ },
+ {
+   "FIELD1": 14,
+   "Name": "Azerbaijan",
+   "Code": "AZ",
+   "value": null
+ },
+ {
+   "FIELD1": 15,
+   "Name": "Bahamas",
+   "Code": "BS",
+   "value": null
+ },
+ {
+   "FIELD1": 16,
+   "Name": "Bahrain",
+   "Code": "BH",
+   "value": null
+ },
+ {
+   "FIELD1": 17,
+   "Name": "Bangladesh",
+   "Code": "BD",
+   "value": null
+ },
+ {
+   "FIELD1": 18,
+   "Name": "Barbados",
+   "Code": "BB",
+   "value": null
+ },
+ {
+   "FIELD1": 19,
+   "Name": "Belarus",
+   "Code": "BY",
+   "value": null
+ },
+ {
+   "FIELD1": 20,
+   "Name": "Belgium",
+   "Code": "BE",
+   "value": 29
+ },
+ {
+   "FIELD1": 21,
+   "Name": "Belize",
+   "Code": "BZ",
+   "value": null
+ },
+ {
+   "FIELD1": 22,
+   "Name": "Benin",
+   "Code": "BJ",
+   "value": null
+ },
+ {
+   "FIELD1": 23,
+   "Name": "Bermuda",
+   "Code": "BM",
+   "value": null
+ },
+ {
+   "FIELD1": 24,
+   "Name": "Bhutan",
+   "Code": "BT",
+   "value": null
+ },
+ {
+   "FIELD1": 25,
+   "Name": "Botswana",
+   "Code": "BW",
+   "value": null
+ },
+ {
+   "FIELD1": 26,
+   "Name": "Bouvet Island",
+   "Code": "BV",
+   "value": null
+ },
+ {
+   "FIELD1": 27,
+   "Name": "Brazil",
+   "Code": "BR",
+   "value": 7
+ },
+ {
+   "FIELD1": 28,
+   "Name": "British Indian Ocean Territory",
+   "Code": "IO",
+   "value": null
+ },
+ {
+   "FIELD1": 29,
+   "Name": "Bulgaria",
+   "Code": "BG",
+   "value": 20
+ },
+ {
+   "FIELD1": 30,
+   "Name": "Burkina Faso",
+   "Code": "BF",
+   "value": null
+ },
+ {
+   "FIELD1": 31,
+   "Name": "Burundi",
+   "Code": "BI",
+   "value": null
+ },
+ {
+   "FIELD1": 32,
+   "Name": "Cambodia",
+   "Code": "KH",
+   "value": null
+ },
+ {
+   "FIELD1": 33,
+   "Name": "Cameroon",
+   "Code": "CM",
+   "value": null
+ },
+ {
+   "FIELD1": 34,
+   "Name": "Canada",
+   "Code": "CA",
+   "value": 68
+ },
+ {
+   "FIELD1": 35,
+   "Name": "Cape Verde",
+   "Code": "CV",
+   "value": null
+ },
+ {
+   "FIELD1": 36,
+   "Name": "Cayman Islands",
+   "Code": "KY",
+   "value": null
+ },
+ {
+   "FIELD1": 37,
+   "Name": "Central African Republic",
+   "Code": "CF",
+   "value": null
+ },
+ {
+   "FIELD1": 38,
+   "Name": "Chad",
+   "Code": "TD",
+   "value": null
+ },
+ {
+   "FIELD1": 39,
+   "Name": "Chile",
+   "Code": "CL",
+   "value": 8
+ },
+ {
+   "FIELD1": 40,
+   "Name": "China",
+   "Code": "CN",
+   "value": null
+ },
+ {
+   "FIELD1": 41,
+   "Name": "Christmas Island",
+   "Code": "CX",
+   "value": null
+ },
+ {
+   "FIELD1": 42,
+   "Name": "Cocos (Keeling) Islands",
+   "Code": "CC",
+   "value": null
+ },
+ {
+   "FIELD1": 43,
+   "Name": "Colombia",
+   "Code": "CO",
+   "value": 7
+ },
+ {
+   "FIELD1": 44,
+   "Name": "Comoros",
+   "Code": "KM",
+   "value": null
+ },
+ {
+   "FIELD1": 45,
+   "Name": "Cook Islands",
+   "Code": "CK",
+   "value": null
+ },
+ {
+   "FIELD1": 46,
+   "Name": "Costa Rica",
+   "Code": "CR",
+   "value": 21
+ },
+ {
+   "FIELD1": 47,
+   "Name": "Croatia",
+   "Code": "HR",
+   "value": 17
+ },
+ {
+   "FIELD1": 48,
+   "Name": "Cuba",
+   "Code": "CU",
+   "value": null
+ },
+ {
+   "FIELD1": 49,
+   "Name": "Curaçao",
+   "Code": "CW",
+   "value": null
+ },
+ {
+   "FIELD1": 50,
+   "Name": "Cyprus",
+   "Code": "CY",
+   "value": null
+ },
+ {
+   "FIELD1": 51,
+   "Name": "Denmark",
+   "Code": "DK",
+   "value": 45
+ },
+ {
+   "FIELD1": 52,
+   "Name": "Djibouti",
+   "Code": "DJ",
+   "value": null
+ },
+ {
+   "FIELD1": 53,
+   "Name": "Dominica",
+   "Code": "DM",
+   "value": null
+ },
+ {
+   "FIELD1": 54,
+   "Name": "Dominican Republic",
+   "Code": "DO",
+   "value": null
+ },
+ {
+   "FIELD1": 55,
+   "Name": "Ecuador",
+   "Code": "EC",
+   "value": null
+ },
+ {
+   "FIELD1": 56,
+   "Name": "Egypt",
+   "Code": "EG",
+   "value": null
+ },
+ {
+   "FIELD1": 57,
+   "Name": "El Salvador",
+   "Code": "SV",
+   "value": null
+ },
+ {
+   "FIELD1": 58,
+   "Name": "Equatorial Guinea",
+   "Code": "GQ",
+   "value": null
+ },
+ {
+   "FIELD1": 59,
+   "Name": "Eritrea",
+   "Code": "ER",
+   "value": null
+ },
+ {
+   "FIELD1": 60,
+   "Name": "Estonia",
+   "Code": "EE",
+   "value": 57
+ },
+ {
+   "FIELD1": 61,
+   "Name": "Ethiopia",
+   "Code": "ET",
+   "value": null
+ },
+ {
+   "FIELD1": 62,
+   "Name": "Faroe Islands",
+   "Code": "FO",
+   "value": null
+ },
+ {
+   "FIELD1": 63,
+   "Name": "Fiji",
+   "Code": "FJ",
+   "value": null
+ },
+ {
+   "FIELD1": 64,
+   "Name": "Finland",
+   "Code": "FI",
+   "value": 53
+ },
+ {
+   "FIELD1": 65,
+   "Name": "France",
+   "Code": "FR",
+   "value": 14
+ },
+ {
+   "FIELD1": 66,
+   "Name": "French Guiana",
+   "Code": "GF",
+   "value": null
+ },
+ {
+   "FIELD1": 67,
+   "Name": "French Polynesia",
+   "Code": "PF",
+   "value": null
+ },
+ {
+   "FIELD1": 68,
+   "Name": "French Southern Territories",
+   "Code": "TF",
+   "value": null
+ },
+ {
+   "FIELD1": 69,
+   "Name": "Gabon",
+   "Code": "GA",
+   "value": null
+ },
+ {
+   "FIELD1": 70,
+   "Name": "Gambia",
+   "Code": "GM",
+   "value": null
+ },
+ {
+   "FIELD1": 71,
+   "Name": "Georgia",
+   "Code": "GE",
+   "value": null
+ },
+ {
+   "FIELD1": 72,
+   "Name": "Germany",
+   "Code": "DE",
+   "value": 38
+ },
+ {
+   "FIELD1": 73,
+   "Name": "Ghana",
+   "Code": "GH",
+   "value": null
+ },
+ {
+   "FIELD1": 74,
+   "Name": "Gibraltar",
+   "Code": "GI",
+   "value": null
+ },
+ {
+   "FIELD1": 75,
+   "Name": "Greece",
+   "Code": "GR",
+   "value": 8
+ },
+ {
+   "FIELD1": 76,
+   "Name": "Greenland",
+   "Code": "GL",
+   "value": null
+ },
+ {
+   "FIELD1": 77,
+   "Name": "Grenada",
+   "Code": "GD",
+   "value": null
+ },
+ {
+   "FIELD1": 78,
+   "Name": "Guadeloupe",
+   "Code": "GP",
+   "value": null
+ },
+ {
+   "FIELD1": 79,
+   "Name": "Guam",
+   "Code": "GU",
+   "value": null
+ },
+ {
+   "FIELD1": 80,
+   "Name": "Guatemala",
+   "Code": "GT",
+   "value": null
+ },
+ {
+   "FIELD1": 81,
+   "Name": "Guernsey",
+   "Code": "GG",
+   "value": null
+ },
+ {
+   "FIELD1": 82,
+   "Name": "Guinea",
+   "Code": "GN",
+   "value": null
+ },
+ {
+   "FIELD1": 83,
+   "Name": "Guinea-Bissau",
+   "Code": "GW",
+   "value": null
+ },
+ {
+   "FIELD1": 84,
+   "Name": "Guyana",
+   "Code": "GY",
+   "value": null
+ },
+ {
+   "FIELD1": 85,
+   "Name": "Haiti",
+   "Code": "HT",
+   "value": null
+ },
+ {
+   "FIELD1": 86,
+   "Name": "Honduras",
+   "Code": "HN",
+   "value": null
+ },
+ {
+   "FIELD1": 87,
+   "Name": "Hong Kong",
+   "Code": "HK",
+   "value": 15
+ },
+ {
+   "FIELD1": 88,
+   "Name": "Hungary",
+   "Code": "HU",
+   "value": 48
+ },
+ {
+   "FIELD1": 89,
+   "Name": "Iceland",
+   "Code": "IS",
+   "value": null
+ },
+ {
+   "FIELD1": 90,
+   "Name": "India",
+   "Code": "IN",
+   "value": 7
+ },
+ {
+   "FIELD1": 91,
+   "Name": "Indonesia",
+   "Code": "ID",
+   "value": 3
+ },
+ {
+   "FIELD1": 92,
+   "Name": "Iraq",
+   "Code": "IQ",
+   "value": null
+ },
+ {
+   "FIELD1": 93,
+   "Name": "Ireland",
+   "Code": "IE",
+   "value": 28
+ },
+ {
+   "FIELD1": 94,
+   "Name": "Isle of Man",
+   "Code": "IM",
+   "value": null
+ },
+ {
+   "FIELD1": 95,
+   "Name": "Israel",
+   "Code": "IL",
+   "value": 9
+ },
+ {
+   "FIELD1": 96,
+   "Name": "Italy",
+   "Code": "IT",
+   "value": 17
+ },
+ {
+   "FIELD1": 97,
+   "Name": "Jamaica",
+   "Code": "JM",
+   "value": null
+ },
+ {
+   "FIELD1": 98,
+   "Name": "Japan",
+   "Code": "JP",
+   "value": 1
+ },
+ {
+   "FIELD1": 99,
+   "Name": "Jersey",
+   "Code": "JE",
+   "value": null
+ },
+ {
+   "FIELD1": 100,
+   "Name": "Jordan",
+   "Code": "JO",
+   "value": null
+ },
+ {
+   "FIELD1": 101,
+   "Name": "Kazakhstan",
+   "Code": "KZ",
+   "value": null
+ },
+ {
+   "FIELD1": 102,
+   "Name": "Kenya",
+   "Code": "KE",
+   "value": null
+ },
+ {
+   "FIELD1": 103,
+   "Name": "Kiribati",
+   "Code": "KI",
+   "value": null
+ },
+ {
+   "FIELD1": 104,
+   "Name": "Kuwait",
+   "Code": "KW",
+   "value": null
+ },
+ {
+   "FIELD1": 105,
+   "Name": "Kyrgyzstan",
+   "Code": "KG",
+   "value": null
+ },
+ {
+   "FIELD1": 106,
+   "Name": "Latvia",
+   "Code": "LV",
+   "value": 35
+ },
+ {
+   "FIELD1": 107,
+   "Name": "Lebanon",
+   "Code": "LB",
+   "value": null
+ },
+ {
+   "FIELD1": 108,
+   "Name": "Lesotho",
+   "Code": "LS",
+   "value": null
+ },
+ {
+   "FIELD1": 109,
+   "Name": "Liberia",
+   "Code": "LR",
+   "value": null
+ },
+ {
+   "FIELD1": 110,
+   "Name": "Libya",
+   "Code": "LY",
+   "value": null
+ },
+ {
+   "FIELD1": 111,
+   "Name": "Liechtenstein",
+   "Code": "LI",
+   "value": null
+ },
+ {
+   "FIELD1": 112,
+   "Name": "Lithuania",
+   "Code": "LT",
+   "value": 34
+ },
+ {
+   "FIELD1": 113,
+   "Name": "Luxembourg",
+   "Code": "LU",
+   "value": null
+ },
+ {
+   "FIELD1": 114,
+   "Name": "Macao",
+   "Code": "MO",
+   "value": null
+ },
+ {
+   "FIELD1": 115,
+   "Name": "Madagascar",
+   "Code": "MG",
+   "value": null
+ },
+ {
+   "FIELD1": 116,
+   "Name": "Malawi",
+   "Code": "MW",
+   "value": null
+ },
+ {
+   "FIELD1": 117,
+   "Name": "Malaysia",
+   "Code": "MY",
+   "value": 12
+ },
+ {
+   "FIELD1": 118,
+   "Name": "Maldives",
+   "Code": "MV",
+   "value": null
+ },
+ {
+   "FIELD1": 119,
+   "Name": "Mali",
+   "Code": "ML",
+   "value": null
+ },
+ {
+   "FIELD1": 120,
+   "Name": "Malta",
+   "Code": "MT",
+   "value": null
+ },
+ {
+   "FIELD1": 121,
+   "Name": "Marshall Islands",
+   "Code": "MH",
+   "value": null
+ },
+ {
+   "FIELD1": 122,
+   "Name": "Martinique",
+   "Code": "MQ",
+   "value": null
+ },
+ {
+   "FIELD1": 123,
+   "Name": "Mauritania",
+   "Code": "MR",
+   "value": null
+ },
+ {
+   "FIELD1": 124,
+   "Name": "Mauritius",
+   "Code": "MU",
+   "value": null
+ },
+ {
+   "FIELD1": 125,
+   "Name": "Mayotte",
+   "Code": "YT",
+   "value": null
+ },
+ {
+   "FIELD1": 126,
+   "Name": "Mexico",
+   "Code": "MX",
+   "value": 23
+ },
+ {
+   "FIELD1": 127,
+   "Name": "Monaco",
+   "Code": "MC",
+   "value": null
+ },
+ {
+   "FIELD1": 128,
+   "Name": "Mongolia",
+   "Code": "MN",
+   "value": null
+ },
+ {
+   "FIELD1": 129,
+   "Name": "Montenegro",
+   "Code": "ME",
+   "value": null
+ },
+ {
+   "FIELD1": 130,
+   "Name": "Montserrat",
+   "Code": "MS",
+   "value": null
+ },
+ {
+   "FIELD1": 131,
+   "Name": "Morocco",
+   "Code": "MA",
+   "value": null
+ },
+ {
+   "FIELD1": 132,
+   "Name": "Mozambique",
+   "Code": "MZ",
+   "value": null
+ },
+ {
+   "FIELD1": 133,
+   "Name": "Namibia",
+   "Code": "",
+   "value": null
+ },
+ {
+   "FIELD1": 134,
+   "Name": "Nauru",
+   "Code": "NR",
+   "value": null
+ },
+ {
+   "FIELD1": 135,
+   "Name": "Nepal",
+   "Code": "NP",
+   "value": null
+ },
+ {
+   "FIELD1": 136,
+   "Name": "Netherlands",
+   "Code": "NL",
+   "value": 36
+ },
+ {
+   "FIELD1": 137,
+   "Name": "New Caledonia",
+   "Code": "NC",
+   "value": null
+ },
+ {
+   "FIELD1": 138,
+   "Name": "New Zealand",
+   "Code": "NZ",
+   "value": 32
+ },
+ {
+   "FIELD1": 139,
+   "Name": "Nicaragua",
+   "Code": "NI",
+   "value": null
+ },
+ {
+   "FIELD1": 140,
+   "Name": "Niger",
+   "Code": "NE",
+   "value": null
+ },
+ {
+   "FIELD1": 141,
+   "Name": "Nigeria",
+   "Code": "NG",
+   "value": null
+ },
+ {
+   "FIELD1": 142,
+   "Name": "Niue",
+   "Code": "NU",
+   "value": null
+ },
+ {
+   "FIELD1": 143,
+   "Name": "Norfolk Island",
+   "Code": "NF",
+   "value": null
+ },
+ {
+   "FIELD1": 144,
+   "Name": "Northern Mariana Islands",
+   "Code": "MP",
+   "value": null
+ },
+ {
+   "FIELD1": 145,
+   "Name": "Norway",
+   "Code": "NO",
+   "value": 100
+ },
+ {
+   "FIELD1": 146,
+   "Name": "Oman",
+   "Code": "OM",
+   "value": null
+ },
+ {
+   "FIELD1": 147,
+   "Name": "Pakistan",
+   "Code": "PK",
+   "value": 11
+ },
+ {
+   "FIELD1": 148,
+   "Name": "Palau",
+   "Code": "PW",
+   "value": null
+ },
+ {
+   "FIELD1": 149,
+   "Name": "Panama",
+   "Code": "PA",
+   "value": null
+ },
+ {
+   "FIELD1": 150,
+   "Name": "Papua New Guinea",
+   "Code": "PG",
+   "value": null
+ },
+ {
+   "FIELD1": 151,
+   "Name": "Paraguay",
+   "Code": "PY",
+   "value": null
+ },
+ {
+   "FIELD1": 152,
+   "Name": "Peru",
+   "Code": "PE",
+   "value": null
+ },
+ {
+   "FIELD1": 153,
+   "Name": "Philippines",
+   "Code": "PH",
+   "value": 7
+ },
+ {
+   "FIELD1": 154,
+   "Name": "Poland",
+   "Code": "PL",
+   "value": 14
+ },
+ {
+   "FIELD1": 155,
+   "Name": "Portugal",
+   "Code": "PT",
+   "value": 31
+ },
+ {
+   "FIELD1": 156,
+   "Name": "Puerto Rico",
+   "Code": "PR",
+   "value": null
+ },
+ {
+   "FIELD1": 157,
+   "Name": "Qatar",
+   "Code": "QA",
+   "value": null
+ },
+ {
+   "FIELD1": 158,
+   "Name": "Réunion",
+   "Code": "RE",
+   "value": null
+ },
+ {
+   "FIELD1": 159,
+   "Name": "Romania",
+   "Code": "RO",
+   "value": 26
+ },
+ {
+   "FIELD1": 160,
+   "Name": "Rwanda",
+   "Code": "RW",
+   "value": null
+ },
+ {
+   "FIELD1": 161,
+   "Name": "Samoa",
+   "Code": "WS",
+   "value": null
+ },
+ {
+   "FIELD1": 162,
+   "Name": "San Marino",
+   "Code": "SM",
+   "value": null
+ },
+ {
+   "FIELD1": 163,
+   "Name": "Saudi Arabia",
+   "Code": "SA",
+   "value": null
+ },
+ {
+   "FIELD1": 164,
+   "Name": "Senegal",
+   "Code": "SN",
+   "value": null
+ },
+ {
+   "FIELD1": 165,
+   "Name": "Serbia",
+   "Code": "RS",
+   "value": null
+ },
+ {
+   "FIELD1": 166,
+   "Name": "Seychelles",
+   "Code": "SC",
+   "value": null
+ },
+ {
+   "FIELD1": 167,
+   "Name": "Sierra Leone",
+   "Code": "SL",
+   "value": null
+ },
+ {
+   "FIELD1": 168,
+   "Name": "Singapore",
+   "Code": "SG",
+   "value": 18
+ },
+ {
+   "FIELD1": 169,
+   "Name": "Slovakia",
+   "Code": "SK",
+   "value": 33
+ },
+ {
+   "FIELD1": 170,
+   "Name": "Slovenia",
+   "Code": "SI",
+   "value": 34
+ },
+ {
+   "FIELD1": 171,
+   "Name": "Solomon Islands",
+   "Code": "SB",
+   "value": null
+ },
+ {
+   "FIELD1": 172,
+   "Name": "Somalia",
+   "Code": "SO",
+   "value": null
+ },
+ {
+   "FIELD1": 173,
+   "Name": "South Africa",
+   "Code": "ZA",
+   "value": 19
+ },
+ {
+   "FIELD1": 174,
+   "Name": "South Sudan",
+   "Code": "SS",
+   "value": null
+ },
+ {
+   "FIELD1": 175,
+   "Name": "Spain",
+   "Code": "ES",
+   "value": 13
+ },
+ {
+   "FIELD1": 176,
+   "Name": "Sri Lanka",
+   "Code": "LK",
+   "value": null
+ },
+ {
+   "FIELD1": 177,
+   "Name": "Sudan",
+   "Code": "SD",
+   "value": null
+ },
+ {
+   "FIELD1": 178,
+   "Name": "Suriname",
+   "Code": "SR",
+   "value": null
+ },
+ {
+   "FIELD1": 179,
+   "Name": "Sweden",
+   "Code": "SE",
+   "value": 74
+ },
+ {
+   "FIELD1": 180,
+   "Name": "Switzerland",
+   "Code": "CH",
+   "value": 40
+ },
+ {
+   "FIELD1": 181,
+   "Name": "Tajikistan",
+   "Code": "TJ",
+   "value": null
+ },
+ {
+   "FIELD1": 182,
+   "Name": "Thailand",
+   "Code": "TH",
+   "value": 2
+ },
+ {
+   "FIELD1": 183,
+   "Name": "Timor-Leste",
+   "Code": "TL",
+   "value": null
+ },
+ {
+   "FIELD1": 184,
+   "Name": "Togo",
+   "Code": "TG",
+   "value": null
+ },
+ {
+   "FIELD1": 185,
+   "Name": "Tokelau",
+   "Code": "TK",
+   "value": null
+ },
+ {
+   "FIELD1": 186,
+   "Name": "Tonga",
+   "Code": "TO",
+   "value": null
+ },
+ {
+   "FIELD1": 187,
+   "Name": "Tunisia",
+   "Code": "TN",
+   "value": null
+ },
+ {
+   "FIELD1": 188,
+   "Name": "Turkey",
+   "Code": "TR",
+   "value": 13
+ },
+ {
+   "FIELD1": 189,
+   "Name": "Turkmenistan",
+   "Code": "TM",
+   "value": null
+ },
+ {
+   "FIELD1": 190,
+   "Name": "Tuvalu",
+   "Code": "TV",
+   "value": null
+ },
+ {
+   "FIELD1": 191,
+   "Name": "Uganda",
+   "Code": "UG",
+   "value": null
+ },
+ {
+   "FIELD1": 192,
+   "Name": "Ukraine",
+   "Code": "UA",
+   "value": 8
+ },
+ {
+   "FIELD1": 193,
+   "Name": "United Arab Emirates",
+   "Code": "AE",
+   "value": 22
+ },
+ {
+   "FIELD1": 194,
+   "Name": "United Kingdom",
+   "Code": "GB",
+   "value": 26
+ },
+ {
+   "FIELD1": 195,
+   "Name": "United States",
+   "Code": "US",
+   "value": 50
+ },
+ {
+   "FIELD1": 196,
+   "Name": "Uruguay",
+   "Code": "UY",
+   "value": null
+ },
+ {
+   "FIELD1": 197,
+   "Name": "Uzbekistan",
+   "Code": "UZ",
+   "value": null
+ },
+ {
+   "FIELD1": 198,
+   "Name": "Vanuatu",
+   "Code": "VU",
+   "value": null
+ },
+ {
+   "FIELD1": 199,
+   "Name": "Western Sahara",
+   "Code": "EH",
+   "value": null
+ },
+ {
+   "FIELD1": 200,
+   "Name": "Yemen",
+   "Code": "YE",
+   "value": null
+ },
+ {
+   "FIELD1": 201,
+   "Name": "Zambia",
+   "Code": "ZM",
+   "value": null
+ },
+ {
+   "FIELD1": 202,
+   "Name": "Zimbabwe",
+   "Code": "ZW",
+   "value": null
+ }
+]
